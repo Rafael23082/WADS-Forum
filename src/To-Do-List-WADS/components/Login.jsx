@@ -8,7 +8,7 @@ export const Login = () => {
     const navigate = useNavigate();
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
-    const { setUser } = useContext(UserContext); 
+    const { user, setUser } = useContext(UserContext); 
 
     const updateText = (value, emailText) => {
         if (emailText) {

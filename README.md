@@ -1,7 +1,9 @@
 Steps:
-Clone the Github Repository
-Run npm install
-Run npm run dev
+<ul>
+ <li>Clone the Github Repository</li>
+<li>Run npm install</li>
+ <li>Run npm run dev</li>
+</ul>
 
 You can login to my account: 
 Email: rafael.anderson@binus.ac.id

@@ -5,6 +5,8 @@ Steps:
  <li>Run npm run dev</li>
 </ul>
 
-You can login to my account: 
-Email: rafael.anderson@binus.ac.id
-Password: 2702255981
+<br>You can login to my account: 
+<br>Email: rafael.anderson@binus.ac.id
+<br>Password: 2702255981
+
+<br>Be sure to have wifi connected so it can access the firestore.

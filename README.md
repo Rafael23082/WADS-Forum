@@ -1,6 +1,7 @@
 Steps:
 <ul>
  <li>Clone the Github Repository</li>
+ <li>Open the folder</li>
 <li>Run npm install</li>
  <li>Run npm run dev</li>
 </ul>
